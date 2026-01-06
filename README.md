@@ -1,6 +1,3 @@
-# RailChargeTR
-sentetik veri demo panel
-
 # ⚡ RailChargeTR - Elektrikli Tren Enerji İzleme Sistemi
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
